@@ -8,6 +8,13 @@ Enjoy!
 
 P. Asimakopoulos (https://ubuverse.com)
 
+## Screenshots
+
+![small][https://raw.githubusercontent.com/pasimako/agitodo/master/small.png]
+
+![large][https://raw.githubusercontent.com/pasimako/agitodo/master/large.png]
+
+
 ## Building
 
 The building instructions below are for Ubuntu. If you are on a different OS, you can still get an idea of what steps you need to follow.
