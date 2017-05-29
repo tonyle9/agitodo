@@ -85,6 +85,11 @@ Dependencies:
 
 ```
 $ sudo apt-get install qtcreator qt5-default libqt5webkit5-dev
+```
+
+Build & Run:
+
+```
 $ ./build_qt.py
 
 # Then open qt/agitodo/agitodo.pro in Qt Creator
